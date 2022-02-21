@@ -20,3 +20,9 @@ older people with changing abilities due to ageing
 people with “temporary disabilities” such as a broken arm or lost glasses
 people with “situational limitations” such as in bright sunlight or in an environment where they cannot listen to audio
 people using a slow Internet connection, or who have limited or expensive bandwidth. 
+
+There were errors that effected various areas of accessibility. 
+Alt text for images provide visually impaired or challenged site visitors to use assistive technologies like screen readers to read the content in a logical flow and make it a seamless experience.
+A document area was not labelled makeing navigation difficult for visually challenged and cognitively challenged site visitors to make logical sense of the flow of the content wthin the website.
+Inlinking did not have a target thereby making it hard for Crawlers to crawl the pages and would affect the on page SEO.
+Color contrast for the sidebar was not optimised for readability and accessibility thereby making it hard to decipher for people with challenged vision or color blindness. Optimised for accessibility.
