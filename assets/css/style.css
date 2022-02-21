@@ -83,7 +83,10 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    /* Old background-color: #2589bd; */
+    
+     /* 8. background colour adjusted for accessibility and enhanced readability.Target audience would be people with visual challenges and color blindness. */
+     background-color: #185E81;
 }
 
 .benefit-lead {
